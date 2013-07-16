@@ -1,0 +1,8 @@
+# Mela di merda
+.DS_Store
+
+# Java .class
+.class
+
+# Bin folder (eclipse)
+bin
