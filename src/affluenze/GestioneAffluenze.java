@@ -1,3 +1,4 @@
+package affluenze;
 import java.util.ArrayList;
 
 public class GestioneAffluenze {
